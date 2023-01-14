@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/images.png" alt="" width="100">
+		<img src="images/image.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Samsung Technologies, 
@@ -40,7 +40,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9980923226
 		devopstrainingblr@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:tolu2618@gmail.com">Mail to Samsung Technologies</a>
 	</span>
 </div>
 <hr>
