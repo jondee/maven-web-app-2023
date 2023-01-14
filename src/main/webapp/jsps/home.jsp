@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Samsung Technologies. Lagos, Nigeria </h1>
+<h1 align="center">Welcome to Samsung and Nokia Technologies. Lagos, Nigeria </h1>
 <h1 align="center"> Samsung Technologies- very Good Training center for DevOps with AWS, Azure in Lagos , Nigeria and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
